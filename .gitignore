@@ -1,0 +1,30 @@
+# 默认忽略的文件
+/shelf/
+/.idea/workspace.xml
+# 基于编辑器的 HTTP 客户端请求
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# IntelliJ IDEA 自用配置
+.idea/
+*.iml
+modules.xml
+misc.xml
+workspace.xml
+encodings.xml
+vcs.xml
+jarRepositories.xml
+compiler.xml
+
+# Maven 构建产物
+target/
+
+# OS 垃圾
+.DS_Store
+Thumbs.db
+
+# 临时文件
+临时文件/
+扩展/
+
